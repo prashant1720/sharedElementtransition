@@ -6,5 +6,5 @@ So The Project uses Recyclerview
                     Picasso dependency to load Images from Url into imageview
                     The Project is inspired from androidDevelopers SharedElement Transtion
                     
-                    ![projectoutput](https://user-images.githubusercontent.com/42214175/62861267-86d1a480-bd20-11e9-8ae1-11c4b3536d73.gif)
+                   ![projectoutput](https://user-images.githubusercontent.com/42214175/62861267-86d1a480-bd20-11e9-8ae1-11c4b3536d73.gif)
                     
