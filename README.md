@@ -17,5 +17,5 @@ So The Project uses Recyclerview
                
                
                
-               ![projectoutput](https://user-images.githubusercontent.com/42214175/62861823-45da8f80-bd22-11e9-95b6-2346ae01a7c9.gif)
+            ![projectoutput](https://user-images.githubusercontent.com/42214175/62861823-45da8f80-bd22-11e9-95b6-2346ae01a7c9.gif)
                     
