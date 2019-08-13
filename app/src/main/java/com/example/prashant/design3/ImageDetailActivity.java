@@ -26,6 +26,7 @@ public class ImageDetailActivity extends AppCompatActivity {
         String imageUrl = imageItem.imageUrl;
         if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.LOLLIPOP)
         {
+            getWindow().setSharedElementEnterTransition(new ChangeBounds().setDuration(1000));
             String imageTransitionName = extras.getString(RecyclerViewActivity.EXTRA_IMAGE_TRANSITION_NAME);
             imageView.setTransitionName(imageTransitionName);
         }
