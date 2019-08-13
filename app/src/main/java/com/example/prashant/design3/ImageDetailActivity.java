@@ -25,7 +25,7 @@ public class ImageDetailActivity extends AppCompatActivity {
         textView.setText(imageItem.detail);
         String imageUrl = imageItem.imageUrl;
         if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.LOLLIPOP)
-        {
+        {// using setDuration() you can set speed of transition
             getWindow().setSharedElementEnterTransition(new ChangeBounds().setDuration(1000));
             String imageTransitionName = extras.getString(RecyclerViewActivity.EXTRA_IMAGE_TRANSITION_NAME);
             imageView.setTransitionName(imageTransitionName);
